@@ -93,7 +93,7 @@ ol {
 }
 
 .sp-title span {
-	background: #baff00;
+	background: #00cd98;
 	padding: 0 10px;
 	color: #222222;
 	display: inline-block;
@@ -130,7 +130,7 @@ ol {
 .section-title h1,
 .section-title h2 {
 	display: inline-block;
-	background: #baff00;
+	background: #00cd98;
 	padding: 0 20px;
 	margin-bottom: 0;
 	font-size: 60px;
@@ -637,7 +637,6 @@ ol {
 }
 
 .slide-content {
-	max-width: 690px;
 	margin-left: 350px;
 	margin-bottom: 50px;
 	padding-left: 190px;
